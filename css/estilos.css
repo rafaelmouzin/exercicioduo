@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #fafafa;
+    padding: 10%;
+    font-family: 'Trebuchet MS';
+}
+
+#corpo {
+    background-image: url(https://media.istockphoto.com/id/500773792/pt/foto/instala%C3%A7%C3%A3o-do-processador-de-cpusocket.jpg?s=2048x2048&w=is&k=20&c=rDFMrexhgqNLy9RXoVlIU5SXJFAuI6HjF5YswohrxwY=);
+    border: 2px solid #070000;
+    border-radius: 1px;
+    box-shadow: 5px 5px 10px rgb(247, 236, 174);
+    margin: 0 auto;
+}
+
+header {
+    padding: 2%;
+    border-bottom: 1px solid #999;
+}
+
+header h1 {
+    text-align: center;
+    color: #fafafa;
+    text-shadow: 1px 1px 2px #0c2ad8;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+main {
+    padding: 1%;
+    font-size: xx-large;
+    color: white;
+    text-shadow: 1px 1px 5px #0c2ad8;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 2%;
+    border-top: 1px solid blue;
+    color: white;
+}
